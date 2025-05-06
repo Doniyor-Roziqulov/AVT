@@ -8,33 +8,24 @@ const Using = () => {
         <div className="text-white">
           <h2 className="text-3xl mb-4">Kafedra professor o‘qituvchilari</h2>
           <p className="mb-3">
-            Beknazarova Saida Safibullayevna- texnika fanlari doktori, dotsent
+            Nuraliyev Faxriddin Murodillayevich- texnika fanlari doktori, professor <br/><br/>
+Muhamadiyev Abduvali Shukurovich- fizika – matematika fanlari doktori, dotsent <br/><br/>
+Beknazarova Saida Safibullayevna- texnika fanlari doktori, professor <br/><br/>
+Bazar Bazarbaev Batir Joldasovich - dotsent <br/><br/>
+Turayev Botir Zokirovich - Phd, professor <br/><br/>
+Umarova Dildora Baxtiyorovna - PHD, dotsent v.b. <br/><br/>
+Yusupova Natalya Yuryevna- PHD, dotsent v.b. <br/><br/>
+Qayumova Gulshan Asrorovna- Phd, katta o‘qituvchi <br/><br/>
+Saliyev Marat Maxmudovich - katta o‘qituvchi <br/><br/>
+Tashmuxammedova Gulnora Xudayberdiyevna - katta o‘qituvchi <br/><br/>
+Saidov Farrux Faxriddinovich - katta o‘qituvchi <br/><br/>
+Ismailov Komolitdin  Saidaxmadovich - katta o‘qituvchi <br/><br/>
+Modullayev Jahongir Sobir o‘g‘li– assistent <br/><br/>
+Boymurodov Bobur Elmurodovich - assistent <br/><br/>
+Baxramov Asror Ahror o‘g‘li - assistent <br/><br/>
+Ibodullayev Sardor Nasriddin o‘g‘li - assistant <br/><br/>
+<strong>Tastanova Saida Aldiyarovna</strong>  - assistent <br/><br/>
           </p>
-          <p className="mb-3">
-            Muhamadiyev Abduvali Shukurovich- fizika – matematika fanlari
-            doktori, dotsent
-          </p>
-          <p className="mb-3">
-            Nuraliyev Faxriddin Murodillayevich- texnika fanlari doktori,
-            dotsent
-          </p>
-          <p className="mb-3">Turayev Botir Zokirovich-Phd, professor</p>
-          <p className="mb-3">
-            Narzullayev Oybek Mirzayevich– Phd, katta o‘qituvchi
-          </p>
-          <p className="mb-3">
-            Giyosov Ulug‘bek Eshpo‘latovich-Phd, katta o‘qituvchi
-          </p>
-          <p className="mb-3">Qayumova Gulshan Asrorovna- katta o‘qituvchi</p>
-          <p className="mb-3">
-            Modullayev Jahongir Sobir o‘g‘li– kata o‘qituvchi
-          </p>
-          <p className="mb-3">Boymurodov Bobur Elmurodovich- kata o‘qituvchi</p>
-          <p className="mb-3">Baxramov Asror Axror o‘g‘li- assistent</p>
-          <p className="mb-3">Ibodullayev Sardor- assistent</p>
-          <p className="mb-3">Jaumitbayeva Mexribon- assistent</p>
-          <p className="mb-3">Abdullayev Yunus Yusup o‘g‘li-assistent</p>
-          <p>Mirzayeva Nargiza-stajyor o‘qituvchi</p>
         </div>
         <div className="flex items-center justify-center">
           <img
