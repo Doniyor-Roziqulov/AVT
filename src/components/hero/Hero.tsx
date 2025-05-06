@@ -35,10 +35,6 @@ const Hero: React.FC<HeaderProps> = ({ setDisplay }) => {
         <GiHamburgerMenu className="text-white text-2xl" />
       </button>
       <div className="container relative mx-auto flex flex-col items-center justify-center h-full text-center">
-        <div className="text-white flex flex-col items-start">
-        
-         
-        </div>
         <div className="flex flex-col items-start gap-x-2 absolute top-8 left-8 lg:top-20 lg:left-20">
           <div className="text-2xl lg:text-3xl font-bold text-white text-shadow">
             {text}
