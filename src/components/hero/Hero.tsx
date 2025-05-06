@@ -3,12 +3,9 @@ import heroimg from "../../images/logo2.png";
 import TextSpan from "../textspan/TextSpan";
 import { GiHamburgerMenu } from "react-icons/gi";
 
-interface HeaderProps {
-  display: boolean;
-  setDisplay: React.Dispatch<React.SetStateAction<boolean>>;
-}
 
-const Hero: React.FC<HeaderProps> = ({ setDisplay }) => {
+
+const Hero:  = ({ setDisplay }) => {
   const [text] = useTypewriter({
     words: [
       "Televizion va media texnologiyalar",
