@@ -11,7 +11,7 @@ interface HeaderProps {
 const Hero: React.FC<HeaderProps> = ({ setDisplay }) => {
   const [text] = useTypewriter({
     words: [
-      "Audiovizual texnologiyalar kafedrasi",
+      "Televizion va media texnologiyalar",
       "TELEVIZION TEXNOLOGIYALAR FAKULTETI",
     ],
     loop: true,
@@ -22,8 +22,6 @@ const Hero: React.FC<HeaderProps> = ({ setDisplay }) => {
   const mystyle = {
     backgroundImage: `url(${heroimg})`,
   };
-
-  const sentence = "AVT".split("");
 
   return (
     <section
@@ -38,12 +36,8 @@ const Hero: React.FC<HeaderProps> = ({ setDisplay }) => {
       </button>
       <div className="container relative mx-auto flex flex-col items-center justify-center h-full text-center">
         <div className="text-white flex flex-col items-start">
-          <p className="font-mono text-2xl">Welcome to</p>
-          <div className="text-7xl min-[780px]:text-8xl lg:text-9xl font-semibold">
-            {sentence.map((letter, inx) => (
-              <TextSpan key={inx}>{letter}</TextSpan>
-            ))}
-          </div>
+        
+         
         </div>
         <div className="flex flex-col items-start gap-x-2 absolute top-8 left-8 lg:top-20 lg:left-20">
           <div className="text-2xl lg:text-3xl font-bold text-white text-shadow">
