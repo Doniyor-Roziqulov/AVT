@@ -8,23 +8,63 @@ const Using = () => {
         <div className="text-white">
           <h2 className="text-3xl mb-4">Kafedra professor o‘qituvchilari</h2>
           <p className="mb-3">
-            Nuraliyev Faxriddin Murodillayevich- texnika fanlari doktori, professor <br/><br/>
-Muhamadiyev Abduvali Shukurovich- fizika – matematika fanlari doktori, dotsent <br/><br/>
-Beknazarova Saida Safibullayevna- texnika fanlari doktori, professor <br/><br/>
-Bazar Bazarbaev Batir Joldasovich - dotsent <br/><br/>
-Turayev Botir Zokirovich - Phd, professor <br/><br/>
-Umarova Dildora Baxtiyorovna - PHD, dotsent v.b. <br/><br/>
-Yusupova Natalya Yuryevna- PHD, dotsent v.b. <br/><br/>
-Qayumova Gulshan Asrorovna- Phd, katta o‘qituvchi <br/><br/>
-Saliyev Marat Maxmudovich - katta o‘qituvchi <br/><br/>
-Tashmuxammedova Gulnora Xudayberdiyevna - katta o‘qituvchi <br/><br/>
-Saidov Farrux Faxriddinovich - katta o‘qituvchi <br/><br/>
-Ismailov Komolitdin  Saidaxmadovich - katta o‘qituvchi <br/><br/>
-Modullayev Jahongir Sobir o‘g‘li– assistent <br/><br/>
-Boymurodov Bobur Elmurodovich - assistent <br/><br/>
-Baxramov Asror Ahror o‘g‘li - assistent <br/><br/>
-Ibodullayev Sardor Nasriddin o‘g‘li - assistant <br/><br/>
-<strong>Tastanova Saida Aldiyarovna</strong>  - assistent <br/><br/>
+            Нуралиев Фахриддин Муродиллаевич – доктор технических наук,
+            профессор <br />
+            <br />
+            Мухамадиев Абдували Шукурович – доктор физико-математических наук,
+            профессор <br />
+            <br />
+            Бекназарова Саида Сафибуллаевна – доктор технических наук, доцент.{" "}
+            <br />
+            <br />
+            Базарбаев Батир Джолдасович – доцент <br />
+            <br />
+            Мирзаев Номоз – доктор технических наук, профессор <br />
+            <br />
+            Умарова Дилдора Бахтиёровна –Phd, доцент <br />
+            <br />
+            Юсупова Наталья Юрьевна –Phd, доцент <br />
+            <br />
+            Каюмова Гульшан Асроровна – Phd, доцент <br />
+            <br />
+            Исмаилов Комолитдин Саидахмадович – Phd, доцент <br />
+            <br />
+            <strong>Тастанова Саида Алдияровна </strong>– Phd, доцент <br />
+            <br />
+            Салиев Марат Махмудович – старший преподаватель <br />
+            <br />
+            Модуллаев Джахангир Сабирович – старший преподаватель <br />
+            <br />
+            Дадабоева Дильноза Иркиновна – старший преподаватель <br />
+            <br />
+            Баймухамедова Дильноза Бахтияровна – ассистент <br />
+            <br />
+            Заитов Самандар Равшанбекович – ассистент <br />
+            <br />
+            Тураев Ботир Зокирович – доктор технических наук, профессор <br />
+            <br />
+            Набиев Ильхомджон Шарифович – старший преподаватель <br />
+            <br />
+            Жаумытбаева Мехрибан Караматдин кизи – старший преподаватель <br />
+            <br />
+            Боймуродов Бобур Эльмуродович – старший преподаватель <br />
+            <br />
+            Османов Акбарджон Ибрагим угли – старший преподаватель <br />
+            <br />
+            Ибодуллаев Сардар Насриддинович – ассистент <br />
+            <br />
+            Нуримбетов Бахберген Толибаевич – ассистент <br />
+            <br />
+            Ортикова Феруза Содик кизи – ассистент <br />
+            <br />
+            Абдуллаев Юнус Юсуф угли-ассистент <br />
+            <br />
+            Алланьязов Ерполат Бахаединович - преподаватель- стажер <br />
+            <br />
+            Каримбаева Азиза Саидазим кизи – преподаватель- стажер <br />
+            <br />
+            Султонова Муножат Тоировна - преподаватель- стажер <br />
+            <br />
           </p>
         </div>
         <div className="flex items-center justify-center">
