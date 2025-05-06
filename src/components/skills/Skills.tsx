@@ -73,17 +73,17 @@ const Skills = () => {
           <div className="grid grid-rows-2 lg:grid-rows-1 lg:grid-cols-2 gap-x-3">
             <img
               className="w-full h-[300px] lg:h-[350px] min-[580px]:h-[350px] xl:h-[400px] object-contain shadow-2xl"
-              src="https://static.tuit.uz/uploads/1/A5Mjp2dHa2iYrE4GpBLblN0vdC2aKgHM.png"
+              src="https://static.tuit.uz/uploads/1/XQaSYqMTtnF5YjJxa57qLdhYNB5Yqgr-.png"
               alt="developer photo"
             />
             <div className="flex items-center justify-center">
               <div>
-                <p className="text-lg">AVT kafedra mudiri:</p>
+                <p className="text-lg">Kafedra mudiri:</p>
                 <h2
                   data-aos="zoom-out-up"
                   className="text-center text-4xl min-[540px]:text-7xl xl:text-6xl lg:text-4xl text-slate-700 mb-3 pointer-events-none"
                 >
-                  Beknazarova Saida Safibullayevna
+                  Nuraliyev Faxriddin Murodillayevich
                 </h2>
                 <p data-aos="zoom-out-up">
                   <strong>Qabul vaqti:</strong> Dushanba – Shanba (15.00-17.00
@@ -95,7 +95,7 @@ const Skills = () => {
                 </p>
                 <p data-aos="zoom-out-up">
                   <strong> E-mail:</strong>{" "}
-                  <a href="mailto:beknazarova@tuit.uz">beknazarova@tuit.uz</a>
+                  <a href="mailto:f.nuraliev@tuit.uzz"> f.nuraliev@tuit.uz</a>
                 </p>
               </div>
             </div>
