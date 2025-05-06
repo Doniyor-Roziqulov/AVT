@@ -7,6 +7,13 @@ const Portfolio = () => {
           amaliy va innavatsion loyihalar) ro‘yxati:
         </p>
         <p>
+          O‘zbekiston Respublikasi Prezidentining 2009 yil 1 apreldagi "O‘zbekiston Milliy teleradiokompaniyasi tizimida yuqori <br /> <br /> texnologiyali teleradiouskunalardan foydalanish samaradorligini yanada oshirish chora-tadbirlari to‘g‘risida”gi PQ-1088-sonli Qaroriga muvofiq Toshkent axborot texnologiyalari universitetida "Televizion texnologiyalari” fakultetiga asos solingan. <br /> <br />
+
+2011 yildan boshlab "Televizion texnologiyalari” fakultetida 2011-2012 o‘quv yilida "Kompyuter grafikasi va dizayn” va <br /> <br /> "Televidenie, radio eshittirish studiyalari va jihozlari” mutaxassislik kafedrasiga asos solindi. 2012 yilda "Televidenie, radio eshittirish studiyalari va jihozlari” kafedrasi nomi "Telestudiya tizimlari va ilovalari” kafedrasi nomiga o‘zgartirildi. <br /> <br />
+
+O‘zbekiston Respublikasi Vazirlar Mahkamasining 2013 yil 28 iyundagi "Toshkent axborot texnologiyalari universiteti va <br /> <br /> uning tuzilmasini takomillashtirish to‘g‘risida”gi VMQ-188-sonli Qaroriga binoan Toshkent axborot texnologiyalari universiteting tuzilmasiga o‘zgarishlar kiritilganligi tufayli, 2013-2014 o‘quv yilidan boshlab "Kompyuter grafikasi va dizayn” kafedrasi nomi "Audiovizual texnologiyalari” deb e’tirof etila boshlandi. <br /> <br />
+
+2023-yil 15-sentyabrdagi Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universitetining <br /> <br /> “Kafedralar faoliyatini tugatish va yangi kafedralar tashkil etish to‘g‘risida”gi buyrugʻiga asosan “Telestudiya tizimlari va ilovalari” va “Audiovizual texnologiyalar” kafedralari birlashtirilib yangi “Televizion va media texnologiyalar” kafedrasi tashkil etildi. <br /> <br />
           Nuraliyev F.M. - fizika – № А-5-026 «Mediaedu.UZ mediata’lim
           tizimining modellari, algoritmlari va dasturiy kompleksini yaratish»
           (2015-2017) <br /> <br />
