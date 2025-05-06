@@ -5,7 +5,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 
 
 
-const Hero:  = ({ setDisplay }) => {
+const Hero:  = {
   const [text] = useTypewriter({
     words: [
       "Televizion va media texnologiyalar",
